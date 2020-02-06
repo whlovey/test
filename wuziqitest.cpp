@@ -9,7 +9,6 @@
 int chessboard[N + 1][N + 1] = { 0 };
 
 int whoseTurn = 0;
-//beihzu
 void initGame(void);
 void printChessboard(void);
 void playChess(void);
